@@ -77,13 +77,13 @@ are household names with the likes of Amazon and Google.
 **Q04**
 
 * **Array:** An array is an integer indexed ordered list of elements. An array
-is created with ```Array.new``` or ```array = [x, 1, "hello"]``` using square
+is created with *"Array.new"* or *"array = [x, 1, "hello"]"* using square
 bracket notation. Arrays are used when a developer wishes to collect data under
 a single name or when the order of elements is important.
 
 * **Hash** A hash is an unorderd list using key-value pairs. Meaning that each
 element is accesd via its associated key instead of an integer. A hash is
-created with ```Hash.new``` or ```hash = {:name => "Adam", :age =>"30"}```
+created with "*Hash.new*" or *"hash = {:name => "Adam", :age =>"30"}*"
 using curly brace notation. Hashes are used to store elements with the associated
 name similiar to the structre of a dictionary
 
@@ -98,9 +98,60 @@ with both hashes and arrays.
 
 **Q06**
 
+* ***Ruby:*** is an open-source, general purpose, high-level, dynamically typed,
+and interpreted language. Used primarily in web development with the Rails framework.
+    - **Benefits**
+    - Designed with human readable syntax for ease of development
+    - Open-source allowing the developer community to work on features and bug
+    fixes
+    - Being Object Orientated ruby has the benefit of modularity.
+    - **Drawbacks**
+    - Ruby has very little support for creating Graphical User Interfaces. While
+    there exists some gems that attpempt to impliment better gui support non are
+    wildy addopted.
+    - Interpreted languages like ruby are slow at runtime do the interpreter needing
+    to facilitate the code execution.
+
+* ***Go*** is an open-source, compiled, low-level, statically typed language
+developed by google. Use primarily in API and back end development.
+    - **Benefits**
+    - As a compiled language go is very fast
+    - Designed with ease of use and developer efficency
+    - A minimalist language with out unneeded parts
+    - **Drawbacks**
+    - As a relatively new language it lacks the support and eco systems of older
+    mature languages
+    - Simplicity and minimalism is not always a good thing in something as complex
+    as a programming language
+
 ---
 
 **Q07**
+
+* ***Trading Crypto-currencies:*** Crypto currencies are a non physical digital
+currency invented in 2009 with bitcoin by *"Satoshi Nakamoto"* designed to be a
+decentralised alternive to government backed fiat currency. With anonymizing and
+encryption technology build into its core. Crypto assets are posing ethical issues
+for developers and non developers a like. While the *"Anti-Money Laundering and
+Counter-Terrorism Financing Amendment Act 2017"* adds crypto to the scope of
+police powers. Developers must be careful when working with blochchain.
+
+* ***Tracking Data*** The GDPR (General Data Protection Regulation) is a major
+piece of Eu legislation that came into effect in 2018. Aimed at big tech and the
+growing concern over data privacy. Despite being only related to the EU it had
+major repocussions to the global tech sector. The GDPR gives strong protections
+to internet uses and clear guidlines on how websites and applications can use
+cookies and user data. And is a major factor in tech giants moving away from
+*'Third Party Cookies'*
+
+* ***Case Study: DogeCoin*** What started out as a joke among crypto enthusiusts
+lead to a worring example or the ethical quagmire developers have with content
+algorithms. A whale is someone who has a large stake in an asset, and a pump and
+dump is the process of hyping up an asset so the prices rises the coordinating a
+sell of at its peak for maximums gains. A internet influencer like Elon Musk has
+the wealth to horde massive quantities of Dogecoin and can influence the price
+with a single tweet. He posts a meme, it trends on twitter and there is a clear
+correlation in price fluctuations.
 
 ---
 
