@@ -157,10 +157,62 @@ ___
 
 **Q14**
 
+![](flowchartQ14.png)
+***Pseudocode***
+
+```
+loop start
+    range 1 to 100
+    if number equals 2 or 5
+    print the number
+    otherswise if the number is od and not 1
+    if number is not divisible by 5, 3, and 7
+    print the number
+Loop End
+
+```
+
+***Ruby Code***
+```
+for i in 1..100 do
+  if i == 2 || i == 5
+    puts i
+  elsif i.odd? && i != 1
+    if i % 5 != 0 && i % 3 != 0 && i % 7 != 0
+      puts i
+    end
+  end
+end
+
+```
 ___
 
 **Q15**
+```
+puts "weather checker"
+puts "Whats the Temp in c"
+temp = gets.to_i
+puts "Is it raning yes/no"
+rain = gets.chomp
 
+case rain
+when "y", "Y", "yes", "Yes"
+  rain = true
+when "n", "N", "no", "No"
+  rain = false
+end
+
+if rain == true && temp < 15
+  puts "It's wet and cold"
+elsif rain == false && temp < 15
+  puts "It's not raining but cold"
+elsif rain == false && temp >= 15
+  puts "It's warm but not raining"
+else
+  puts "It's warm and raining"
+end
+
+```
 ___
 
 **Q16**
