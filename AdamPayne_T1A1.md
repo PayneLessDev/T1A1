@@ -41,11 +41,18 @@ user may recognize as the internet.
 
 **Q04**
 
-* **Array**
+* **Array:** An array is an integer indexed ordered list of elements. An array
+is created with ```Array.new``` or ```array = [x, 1, "hello"]``` using square
+bracket notation. Arrays are used when a developer wishes to collect data under
+a single name or when the order of elements is important.
 
-* **Hash**
+* **Hash** A hash is an unorderd list using key-value pairs. Meaning that each
+element is accesd via its associated key instead of an integer. A hash is
+created with ```Hash.new``` or ```hash = {:name => "Adam", :age =>"30"}```
+using curly brace notation. Hashes are used to store elements with the associated
+name similiar to the structre of a dictionary
 
-* **Set**
+* **Set** A set is
 
 ---
 
@@ -88,6 +95,7 @@ branches of options to evaluate, choosing only one.
 
 **Q09**
 
+*Type Coercion* is the
 ---
 
 **Q10**
