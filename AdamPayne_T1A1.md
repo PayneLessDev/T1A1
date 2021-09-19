@@ -5,15 +5,50 @@
 * ***Usenet*** Starting out as a collection of Bourne Shell scripts (The
 precursor to BASH) by two university students, "Tom Truscott" & "Jim Ellis". And
 going public in 1980. Usenet is the earliest example of what a modern internet
-user may recognize as the internet.
+user may recognize as the internet. Usenet is organized into newsgroup sharing a
+theme or topic, with the top of the hierarchy being *comp, humanities, misc,
+news, rec, sci, soc, talk*. For example the usenet for the BASH shell bugs is
+"gnu.bash.bug". The modern internet culture of memes started within usenet.
 
-* ***Tim Berners-Lee***
 
-* ***Y2K***
+* ***Tim Berners-Lee*** The person who published the very first website on the
+20th of December 1990. With a bachelors degree from *The Queens Collage, Oxford*
+graduating in 1976. By 1980 he was working as an independent contractor at CERN
+(European Organization for Nuclear Research). It wasn't until 1984 that he was
+a fellow at CERN. It was there that he developed the HTTPd (Hyper Text Transfer
+Protocol daemon), The First web browser and the first HTML (Hyper Text Markup
+Language) document that became the first website. In 1994 at MIT he founded the
+W3c (The World Wide Web Consortium) which decided the standards for the growing
+internet.
 
-* ***Web 2.0***
+* ***Y2K*** Known as *'The Year 200 Problem'* was a potential problem for
+computers due to the way data relating to dates is stored in computers. Many
+system and applications stored the year as only the last two digits thereby
+making 2000 and 1900 the same value, to a computer. The public and media hyped
+up Y2K as some potential apocalypse with fears of planes dropping out the sky
+and nuclear weapons firing uncontrolled. Despite these fears nothing really
+notable happened due to the tireless work of developers in the years and months
+leading up to December 2000. A similar problems are due in the years 2042, 2100
+, and 10,000.
 
-* ***Dot-com Bubble***
+* ***Web 2.0*** refers to the major change to the way the internet was designed
+and used. Prior to this philosophical shift the internet was made up of static
+pages viewed passively by end users, While images existed due to the technology
+of the time they where very small, compressed and of little quality. Audio and
+Video was largely unheard of. A web2.0 experience is built of user generated
+content and interactive complex websites and the birth of social media. Multimedia
+sharing including videos and audio over competing social networks. While the term
+web3.0 exist to refer to the modern semantic web, The biggest contrast can be seen
+between any pre-2000's website and one build in the 2010's
+
+* ***Dot-com Bubble*** was a Stock Market crash caused by internet related
+companies being over valued and excessive speculation on the tech industry. during
+1995 to 2000 the Nasdaq index rose 400%. Fueled by the 1990's economic boom due
+to the fall of the Soviet Union. Venture capital flooded the tech sector. Anythin
+with com in its name saw its stock price rise exponentially during this period.
+The bubble finally burst in October 2002 fell over 78% from its peak causing a
+recession and numerous companies to shutdown or file bankruptcy. The survivers
+are household names with the likes of Amazon and Google.
 
 ---
 
