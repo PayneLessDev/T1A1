@@ -133,6 +133,18 @@ the assigned integer.
 
 **Q11**
 
+I would use the following classes;
+
+* ***Menu:*** Holds the information on each food item including name, price and
+availability
+
+* ***Customer:***  Able to create new or retreive existing customer details
+including adderess and payment
+
+* ***Order:*** Stores information on which customer orders what items.
+
+* ***Delivery:*** Customer and Order information for delivery.
+
 ---
 
 **Q12**
