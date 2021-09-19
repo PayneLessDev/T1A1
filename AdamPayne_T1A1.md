@@ -96,7 +96,14 @@ branches of options to evaluate, choosing only one.
 
 **Q09**
 
-*Type Coercion* is the
+*Type Coercion* is the methods used to transform one data type into another. In
+ruby two of these methods are;
+
+* ***to_i*** which returns the object as an interger
+* ***to_s*** which returns the object as a string
+
+These methods are used throughout ruby code from getting user input to moving
+around arrays and the data within them.
 
 ---
 
