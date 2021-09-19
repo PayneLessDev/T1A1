@@ -54,6 +54,7 @@ name similiar to the structre of a dictionary
 
 * **Set** A set is an unorderd values without duplicates. And has many attributes
 with both hashes and arrays.
+
 ---
 
 **Q05**
@@ -96,6 +97,7 @@ branches of options to evaluate, choosing only one.
 **Q09**
 
 *Type Coercion* is the
+
 ---
 
 **Q10**
@@ -170,6 +172,7 @@ ___
 **Q14**
 
 ![](flowchartQ14.png)
+
 ***Pseudocode***
 
 ```
