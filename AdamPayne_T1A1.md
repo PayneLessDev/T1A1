@@ -52,8 +52,8 @@ created with ```Hash.new``` or ```hash = {:name => "Adam", :age =>"30"}```
 using curly brace notation. Hashes are used to store elements with the associated
 name similiar to the structre of a dictionary
 
-* **Set** A set is
-
+* **Set** A set is an unorderd values without duplicates. And has many attributes
+with both hashes and arrays.
 ---
 
 **Q05**
